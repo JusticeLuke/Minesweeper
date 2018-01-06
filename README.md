@@ -6,6 +6,8 @@ a number of mines based on difficulty. The user can use commands to
 place a variety of symbols on the board to help him find all mines.
 
 Commands:
+
 mark(m) - marks a space. Must mark all mines to win
+
 flag(f) - flags a space. Maybe there's a mine there?
 
